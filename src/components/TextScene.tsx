@@ -131,6 +131,7 @@ const TextWithOrbit: React.FC = () => {
       window.removeEventListener('resize', onWindowResize)
       controls.dispose()
       if (mountRef.current) {
+        // eslint-disable-next-line react-hooks/exhaustive-deps
         mountRef.current.removeChild(renderer.domElement)
       }
       renderer.dispose()

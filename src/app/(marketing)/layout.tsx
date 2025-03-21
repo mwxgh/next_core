@@ -5,7 +5,9 @@ export const metadata: Metadata = {
   description: 'Nextjs 15 Core',
 }
 
-const MarketingLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
+const MarketingLayout = ({
+  children,
+}: Readonly<{ children: React.ReactNode }>) => {
   return (
     <html lang="en">
       <body>
