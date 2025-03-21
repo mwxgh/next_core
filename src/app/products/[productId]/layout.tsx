@@ -1,10 +1,3 @@
-import type { Metadata } from 'next'
-
-export const metadata: Metadata = {
-  title: 'Next Core',
-  description: 'Nextjs 15 Core',
-}
-
 const ProductDetailLayout = ({
   children,
 }: Readonly<{ children: React.ReactNode }>) => {
