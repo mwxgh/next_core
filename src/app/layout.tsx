@@ -33,8 +33,11 @@ const RootLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
             enableSystem
             disableTransitionOnChange
           >
-            <Navbar />
-            <ModeToggle />
+            <header className="fixed top-0 left-0 w-full flex items-center justify-between p-4 bg-white text-black dark:bg-black dark:text-white">
+              <Navbar />
+              <ModeToggle />
+            </header>
+
             {children}
           </ThemeProvider>
         </body>
