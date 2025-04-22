@@ -4,7 +4,7 @@ import { useState } from 'react'
 import { HoveredLink, Menu, MenuItem, MenuItemElement } from '../ui/navbar-menu'
 import { cn } from '@/lib/utils'
 
-export const Navbar = () => (
+export const HeaderNavbar = () => (
   <div className="w-full flex items-center justify-center">
     <NavbarComponent className="top-2" />
   </div>

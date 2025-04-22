@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from '@/components/theme-provider'
-import { Navbar } from '@/components/navbar'
-import { ModeToggle } from '@/components/toggle'
+import { HeaderNavbar } from '@/components/header-navbar'
+import { ThemeToggle } from '@/components/theme-toggle'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Portfolio',
+  title: 'Nova Mei',
   description: 'Nova Mei Portfolio',
 }
 
@@ -34,8 +34,8 @@ const RootLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
             disableTransitionOnChange
           >
             <header className="fixed top-0 left-0 w-full flex items-center justify-between p-4 bg-white text-black dark:bg-black dark:text-white">
-              <Navbar />
-              <ModeToggle />
+              <HeaderNavbar />
+              <ThemeToggle />
             </header>
 
             {children}
