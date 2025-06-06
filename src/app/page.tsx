@@ -6,6 +6,7 @@ const Home = () => {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <h1>Home</h1>
         <Link href="/login">Login</Link>
+        <Link href="/signup">Signup</Link>
       </main>
     </div>
   )
