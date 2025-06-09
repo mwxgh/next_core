@@ -1,8 +1,6 @@
-'use client'
-
 import * as TabsPrimitive from '@radix-ui/react-tabs'
 
-import { cn } from '@/lib/utils'
+import { cn } from '@lib/utils'
 
 const Tabs = ({
   className,

@@ -1,5 +1,3 @@
-'use client'
-
 import { useState } from 'react'
 import { Check, ChevronsUpDown } from 'lucide-react'
 import { Button } from '@ui/button'
@@ -13,7 +11,7 @@ import {
   CommandItem,
 } from '@ui/command'
 import { Popover, PopoverContent, PopoverTrigger } from '@ui/popover'
-import { cn } from '@/lib/utils'
+import { cn } from '@lib/utils'
 
 import countries from '@/data/countries.json'
 import states from '@/data/states.json'

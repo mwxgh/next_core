@@ -1,8 +1,9 @@
 import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import './globals.css'
-import ThemeProvider from '@/components/theme/theme-provider'
-import { ThemeToggle } from '@/components/theme/theme-toggle'
+import ThemeProvider from '@theme/theme-provider'
+import { ThemeToggle } from '@theme/theme-toggle'
+import Link from 'next/link'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -33,6 +34,7 @@ const RootLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
         >
           <header className="dark:bg-yellow-400 bg-red-400 w-full h-24 text-center">
             <p>Header</p>
+            <Link href="/">Home</Link>
             <ThemeToggle />
           </header>
 
