@@ -55374,50 +55374,6 @@
     "longitude": "105.12589550"
   },
   {
-    "id": 3770,
-    "name": "Bà Rịa-Vũng Tàu",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "43",
-    "type": "province",
-    "latitude": "10.54173970",
-    "longitude": "107.24299760"
-  },
-  {
-    "id": 3815,
-    "name": "Bắc Giang",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "54",
-    "type": "province",
-    "latitude": "21.28199210",
-    "longitude": "106.19747690"
-  },
-  {
-    "id": 3822,
-    "name": "Bắc Kạn",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "53",
-    "type": "province",
-    "latitude": "22.30329230",
-    "longitude": "105.87600400"
-  },
-  {
-    "id": 3804,
-    "name": "Bạc Liêu",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "55",
-    "type": "province",
-    "latitude": "9.29400270",
-    "longitude": "105.72156630"
-  },
-  {
     "id": 3791,
     "name": "Bắc Ninh",
     "country_id": 240,
@@ -55427,61 +55383,6 @@
     "type": "province",
     "latitude": "21.12144400",
     "longitude": "106.11105010"
-  },
-  {
-    "id": 3796,
-    "name": "Bến Tre",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "50",
-    "type": "province",
-    "latitude": "10.24335560",
-    "longitude": "106.37555100"
-  },
-  {
-    "id": 3785,
-    "name": "Bình Dương",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "57",
-    "type": "province",
-    "latitude": "11.32540240",
-    "longitude": "106.47701700"
-  },
-  {
-    "id": 3830,
-    "name": "Bình Định",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "31",
-    "type": "province",
-    "latitude": "14.16653240",
-    "longitude": "108.90268300"
-  },
-  {
-    "id": 3797,
-    "name": "Bình Phước",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "58",
-    "type": "province",
-    "latitude": "11.75118940",
-    "longitude": "106.72346390"
-  },
-  {
-    "id": 3787,
-    "name": "Bình Thuận",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "40",
-    "type": "province",
-    "latitude": "11.09037030",
-    "longitude": "108.07207810"
   },
   {
     "id": 3778,
@@ -55539,17 +55440,6 @@
     "longitude": "108.23775190"
   },
   {
-    "id": 3823,
-    "name": "Đắk Nông",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "72",
-    "type": "province",
-    "latitude": "12.26464760",
-    "longitude": "107.60980600"
-  },
-  {
     "id": 3773,
     "name": "Điện Biên",
     "country_id": 240,
@@ -55594,28 +55484,6 @@
     "longitude": "108.10937500"
   },
   {
-    "id": 3779,
-    "name": "Hà Giang",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "03",
-    "type": "province",
-    "latitude": "22.80255880",
-    "longitude": "104.97844940"
-  },
-  {
-    "id": 3802,
-    "name": "Hà Nam",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "63",
-    "type": "province",
-    "latitude": "20.58351960",
-    "longitude": "105.92299000"
-  },
-  {
     "id": 3810,
     "name": "Hà Nội",
     "country_id": 240,
@@ -55638,17 +55506,6 @@
     "longitude": "105.88774940"
   },
   {
-    "id": 3827,
-    "name": "Hải Dương",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "61",
-    "type": "province",
-    "latitude": "20.93734130",
-    "longitude": "106.31455420"
-  },
-  {
     "id": 3783,
     "name": "Hải Phòng",
     "country_id": 240,
@@ -55660,17 +55517,6 @@
     "longitude": "106.68808410"
   },
   {
-    "id": 3777,
-    "name": "Hậu Giang",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "73",
-    "type": "province",
-    "latitude": "9.75789800",
-    "longitude": "105.64125270"
-  },
-  {
     "id": 3811,
     "name": "Hồ Chí Minh",
     "country_id": 240,
@@ -55680,17 +55526,6 @@
     "type": "province",
     "latitude": "10.82309890",
     "longitude": "106.62966380"
-  },
-  {
-    "id": 3799,
-    "name": "Hòa Bình",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "14",
-    "type": "province",
-    "latitude": "20.68612650",
-    "longitude": "105.31311850"
   },
   {
     "id": 3768,
@@ -55713,28 +55548,6 @@
     "type": "province",
     "latitude": "12.25850980",
     "longitude": "109.05260760"
-  },
-  {
-    "id": 3800,
-    "name": "Kiên Giang",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "47",
-    "type": "province",
-    "latitude": "9.82495870",
-    "longitude": "105.12589550"
-  },
-  {
-    "id": 3772,
-    "name": "Kon Tum",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "28",
-    "type": "province",
-    "latitude": "14.34974030",
-    "longitude": "108.00046060"
   },
   {
     "id": 3825,
@@ -55781,28 +55594,6 @@
     "longitude": "103.97549590"
   },
   {
-    "id": 3808,
-    "name": "Long An",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "41",
-    "type": "province",
-    "latitude": "10.56071680",
-    "longitude": "106.64976230"
-  },
-  {
-    "id": 3789,
-    "name": "Nam Định",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "67",
-    "type": "province",
-    "latitude": "20.43882250",
-    "longitude": "106.16210530"
-  },
-  {
     "id": 3780,
     "name": "Nghệ An",
     "country_id": 240,
@@ -55825,17 +55616,6 @@
     "longitude": "105.97445360"
   },
   {
-    "id": 3788,
-    "name": "Ninh Thuận",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "36",
-    "type": "province",
-    "latitude": "11.67387670",
-    "longitude": "108.86295720"
-  },
-  {
     "id": 3801,
     "name": "Phú Thọ",
     "country_id": 240,
@@ -55845,39 +55625,6 @@
     "type": "province",
     "latitude": "21.26844300",
     "longitude": "105.20455730"
-  },
-  {
-    "id": 3824,
-    "name": "Phú Yên",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "32",
-    "type": "province",
-    "latitude": "13.08818610",
-    "longitude": "109.09287640"
-  },
-  {
-    "id": 3809,
-    "name": "Quảng Bình",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "24",
-    "type": "province",
-    "latitude": "17.61027150",
-    "longitude": "106.34874740"
-  },
-  {
-    "id": 3776,
-    "name": "Quảng Nam",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "27",
-    "type": "province",
-    "latitude": "15.53935380",
-    "longitude": "108.01910200"
   },
   {
     "id": 3828,
@@ -55913,17 +55660,6 @@
     "longitude": "107.18546790"
   },
   {
-    "id": 3819,
-    "name": "Sóc Trăng",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "52",
-    "type": "province",
-    "latitude": "9.60252100",
-    "longitude": "105.97390490"
-  },
-  {
     "id": 3812,
     "name": "Sơn La",
     "country_id": 240,
@@ -55944,17 +55680,6 @@
     "type": "province",
     "latitude": "11.33515540",
     "longitude": "106.10988540"
-  },
-  {
-    "id": 3775,
-    "name": "Thái Bình",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "20",
-    "type": "province",
-    "latitude": "20.44634710",
-    "longitude": "106.33658280"
   },
   {
     "id": 3807,
@@ -55990,28 +55715,6 @@
     "longitude": "107.59053260"
   },
   {
-    "id": 3781,
-    "name": "Tiền Giang",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "46",
-    "type": "province",
-    "latitude": "10.44933240",
-    "longitude": "106.34205040"
-  },
-  {
-    "id": 3805,
-    "name": "Trà Vinh",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "51",
-    "type": "province",
-    "latitude": "9.81274100",
-    "longitude": "106.29929120"
-  },
-  {
     "id": 3795,
     "name": "Tuyên Quang",
     "country_id": 240,
@@ -56032,28 +55735,6 @@
     "type": "province",
     "latitude": "10.23957400",
     "longitude": "105.95719280"
-  },
-  {
-    "id": 3774,
-    "name": "Vĩnh Phúc",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "70",
-    "type": "province",
-    "latitude": "21.36088050",
-    "longitude": "105.54743730"
-  },
-  {
-    "id": 3784,
-    "name": "Yên Bái",
-    "country_id": 240,
-    "country_code": "VN",
-    "country_name": "Vietnam",
-    "state_code": "06",
-    "type": "province",
-    "latitude": "21.71676890",
-    "longitude": "104.89858780"
   },
   {
     "id": 5074,
