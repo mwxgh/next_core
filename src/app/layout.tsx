@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import { Geist, Geist_Mono } from 'next/font/google'
 import './globals.css'
 import ThemeProvider from '@theme/theme-provider'
-import { ThemeToggle } from '@theme/theme-toggle'
-import Link from 'next/link'
+import Header from '@/components/header'
+import Footer from '@/components/footer'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -32,17 +32,11 @@ const RootLayout = ({ children }: Readonly<{ children: React.ReactNode }>) => {
           enableSystem
           disableTransitionOnChange
         >
-          <header className="dark:bg-yellow-400 bg-red-400 w-full h-24 text-center">
-            <p>Header</p>
-            <Link href="/">Home</Link>
-            <ThemeToggle />
-          </header>
+          <Header />
 
           {children}
 
-          <footer className="dark:bg-red-400 bg-yellow-400 w-full h-24 text-center">
-            <p>Footer</p>
-          </footer>
+          <Footer />
         </ThemeProvider>
       </body>
     </html>

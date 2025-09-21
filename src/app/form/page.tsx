@@ -23,13 +23,14 @@ const formSchema = z.object({
 
 const MyForm = () => {
   const [_countryName, setCountryName] = useState<string>('')
+  console.log(_countryName)
   const [stateName, setStateName] = useState<string>('')
 
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
   })
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
+  const onSubmit = (values: z.infer<typeof formSchema>) => {
     try {
       console.log(values)
       toast(
